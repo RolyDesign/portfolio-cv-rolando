@@ -23,7 +23,7 @@ margin-bottom: 2rem;
 .footer{
     margin-bottom: var(--header-height);
     padding: 0.5rem;
-    background-color: var(--third-color);
+    background-color: var(--first-color);
     text-align: center;
     color: var(--white-color);
 }
@@ -37,7 +37,7 @@ margin-bottom: 2rem;
     padding: 1rem;
     width: 100%;
     height: var(--header-height);
-    background-color: var(--second-color);
+    background-color: var(--first-color);
 }
 
 .header > .container{
@@ -47,7 +47,7 @@ margin-bottom: 2rem;
 }
 
 .logo a svg{
-    fill: var(--first-color);
+    fill: var(--white-color);
     width: 2rem;
     height: 2rem;
 }

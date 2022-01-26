@@ -189,7 +189,7 @@
    width: 100%;
    display: flex;
    flex-direction: column;
-   background-color: var(--second-color);
+   background-color: var(--first-color);
    opacity: 0;
    pointer-events: none;
    transition: opacity 0.3s ease;
@@ -204,11 +204,11 @@
     outline: thin solid var(--first-color);
     border: 0;
     cursor: pointer;
-    background-color: var(--second-color);
+    background-color: var(--first-color);
 }
 
 .menu-btn svg{
-    fill: var(--first-color)
+    fill: var(--white-color)
 }
 
 .menu a{
@@ -216,13 +216,13 @@
     font: 1.5rem;
     font-weight: bold;
     text-align: center;
-    color: var(--first-color);
+    color: var(--white-color);
 
 }
 
 .menu a:hover{
-    color: var(--white-color);
-    background-color: var(--first-color);
+    color: var(--second-color);
+    background-color: var(--white-color);
 
 }
 
