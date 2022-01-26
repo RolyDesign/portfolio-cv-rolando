@@ -1,0 +1,16 @@
+/* ***********custom properties***********  */
+@import url("./styles/customproperties.css");
+
+/* ***********Reset*********** */
+@import url("./styles/reset.css");
+
+/* ***********Componentes*********** */
+@import url("./styles/componentes.css");
+
+/* ***********Utilities*********** */
+@import url("./styles/utilities.css");
+
+/* ***********Site Styles*********** */
+@import url("./styles/site.css");
+
+
