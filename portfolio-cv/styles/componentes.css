@@ -153,8 +153,8 @@
 }
 /* ****HeroImage**** */
 .hero-image{
-    background-image:var(--hero-image);
-    /* background-image: url("/portfolio-cv/assets/Banner.jpg"); */
+    /* background-image:var(--hero-image); */
+    background-image: url("../assets/Banner.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;

@@ -150,6 +150,9 @@ margin-bottom: 2rem;
     flex-direction: column;
     justify-content: center;
 }
+.testimonials .hero-image{
+    background-image: url("../assets/hero-image-customers.jpg");
+} 
 
 
 
